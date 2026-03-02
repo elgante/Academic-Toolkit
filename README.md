@@ -1,19 +1,19 @@
 # Academic_Toolkit
-### Here you will find exercises, projects that were conducted as part of studying at VIA University College 
+#### Here you will find exercises, projects that were conducted as part of studying at VIA University College 
 _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 
 
 
-# JS, React
+## JS, React
    [ELGANTE Personal Site Live Demo](https://elgante-personal-site-v1.vercel.app)
  Built independently to explore advanced JavaScript and React features.
 
-# C#
+## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
 - [Semester 3 Project using Java, C#, gRPC, REST API](https://github.com/elgante/3rdSemesterProject)
 
-# Java
+## Java
 - [Java exercises and Semester1 Project using JavaFx](https://github.com/elgante/java)
 - [Semester2 Project using JavaFx](https://github.com/elgante/2ndSemesterProject)
 
