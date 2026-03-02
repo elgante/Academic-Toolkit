@@ -6,9 +6,8 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 
 # JS, React
-<a href="https://elgante-personal-site-v1.vercel.app" target="_blank" rel="noopener noreferrer">
-   ELGANTE Personal Site Live Demo
-</a> 
+   [ELGANTE Personal Site Live Demo](https://elgante-personal-site-v1.vercel.app)
+ Built independently to explore advanced JavaScript and React features.
 
 # C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
