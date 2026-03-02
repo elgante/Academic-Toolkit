@@ -4,7 +4,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 
 
-# JS, React, EmailJS
+# JS, React
 <a href="https://elgante-personal-site-v1.vercel.app" target="_blank" rel="noopener noreferrer">
    ELGANTE Personal Site Live Demo
 </a> 
