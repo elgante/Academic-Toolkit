@@ -9,6 +9,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 - [WEB2 assignment Pokedex Demo](https://pokedex-nine-gamma-91.vercel.app)
 - [ELGANTE Personal Site Demo](https://elgante-personal-site-v1.vercel.app)
  Built independently to explore advanced JavaScript and React features.
+- [ELGANTE Personal Site Repo](https://github.com/elgante/elgante_personal_site_v1_code.git)
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
