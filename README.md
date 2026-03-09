@@ -10,7 +10,7 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 - [ELGANTE Personal Site Repo](https://github.com/elgante/elgante_personal_site_v1_code.git) Built independently to explore JavaScript and React features.
 - [WEB2 assignment Pokedex Demo](https://pokedex-nine-gamma-91.vercel.app)
 - [WEB2 assignment Pokedex Code](https://github.com/elgante/pokedex_code)
-- [WEB2 assignment Tic-Tac-Toe Repo](https://github.com/elgante/tic_tac_toe). Group work
+- [WEB2 assignment Tic-Tac-Toe Repo](https://github.com/elgante/tic_tac_toe) Group work
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
@@ -20,5 +20,5 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 ## Java
 - [Java exercises and Semester1 Project-Overlook Hotel-JavaFx](https://github.com/elgante/java) Group work
 - [Semester2 Project-Vynil Swap-JavaFx+RMI](https://github.com/elgante/2ndSemesterProject) Group work
-- [WEB1 Assignment: HTML, CSS, Bootstrap](https://overlookhotel.vercel.app/). Group work
+- [WEB1 Assignment: HTML, CSS, Bootstrap](https://overlookhotel.vercel.app/) Group work
 
