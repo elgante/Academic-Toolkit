@@ -13,10 +13,10 @@ _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
-- [Semester 3 Project Repo](https://github.com/elgante/3rdSemesterProject) 
+- [Semester 3 Project Repo](https://github.com/elgante/3rdSemesterProject) Group work
 - [Semester 3 Project Demo](https://youtu.be/oUpRkwiyLQY)
 
 ## Java
-- [Java exercises and Semester1 Project using JavaFx](https://github.com/elgante/java) 
-- [Semester2 Project using JavaFx](https://github.com/elgante/2ndSemesterProject) 
+- [Java exercises and Semester1 Project using JavaFx](https://github.com/elgante/java) Group work
+- [Semester2 Project using JavaFx](https://github.com/elgante/2ndSemesterProject) Group work
 
