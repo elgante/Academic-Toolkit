@@ -3,7 +3,7 @@
 _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
 ## Multimedia
-- [A Surreal Journey Video Multimedia Project](https://youtu.be/eeWM7zs2sHw)
+- [A Surreal Journey. Video. Multimedia Project](https://youtu.be/eeWM7zs2sHw)
 
 ## JS, React
 - [WEB2 assignment Pokedex Demo](https://pokedex-nine-gamma-91.vercel.app)
