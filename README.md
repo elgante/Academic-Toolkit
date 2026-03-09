@@ -1,4 +1,4 @@
-# Academic_Toolkit
+# Academic-Toolkit
 #### Here you will find exercises, projects that were conducted as part of studying at VIA University College 
 _(Tip: Ctrl/Cmd + Click to open in a new tab)_
 
