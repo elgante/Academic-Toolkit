@@ -9,13 +9,14 @@ Hey, traveler! I’m currently getting polished. Come back soon.
 
 **Meanwhile, this is how I look:**
 <p align="center">
-  <img src="assets/welcome.png" width="151" height="594"/>
-  <img src="assets/home.png" width="151" height="594"/>
-  <img src="assets/createGoal.png" width="151" height="594"/>
-  <img src="assets/confetti.png" width="151" height="594"/>
-  <img src="assets/deletePopUp.png" width="151" height="594"/>
-
-  <img src="assets/meditationPlayer.png" width="151" height="594"/>
+  <img src="assets/welcome.png" width="51" height="494"/>
+  <img src="assets/home.png" width="51" height="494"/>
+  <img src="assets/createGoal.png" width="51" height="494"/>
+  <img src="assets/confetti.png" width="51" height="494"/>
+  <img src="assets/deletePopUp.png" width="51" height="494"/>
+  <img src="assets/meditationList.png" width="51" height="494"/>
+  <img src="assets/meditationPlayer.png" width="51" height="494"/>
+    <img src="assets/chat.png" width="51" height="494"/>
  
 </p>
 
