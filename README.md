@@ -33,7 +33,7 @@ Hey, traveler! I’m currently getting polished 🤩. Come back soon.
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
-- [Semester 3 Project-CenterSprog Language School](https://github.com/elgante/3rdSemesterProject) Group work
+- [Semester 3 Project-CenterSprog Language School](https://github.com/elgante/3rdSemesterProject) Group work.
 - [Semester 3 Project-CenterSprog Language School Demo](https://youtu.be/oUpRkwiyLQY)
 
 ## Java
