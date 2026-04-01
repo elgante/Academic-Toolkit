@@ -31,6 +31,7 @@ Hey, traveler! I’m currently getting polished 🤩. Come back soon.
 - [WEB2 assignment Pokedex](https://github.com/elgante/pokedex_code)
 - [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) Group work
 - [Semester 4 Project: Green House. Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CDin ](https://github.com/elgante/tic_tac_toe) Group work
+- [Semester 4 Project: Green House. Demo](plan-ty.github.io/plan-ty/)
 
 ## C#
 - [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
