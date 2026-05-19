@@ -36,13 +36,13 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 - [Semester 4 Project: Green House. Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CD Demo](https://plan-ty.github.io/plan-ty/) Group work
 
 ## C#
-- [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3)
-- [Semester 3 Project: CenterSprog Language School Demo](https://youtu.be/oUpRkwiyLQY)
-- [Semester 3 Project. Distributed Systems. 3 Tier: CenterSprog Language School. .NET, Java Sring Boot, Blazor, gRPC, Rest API, SQL](https://github.com/elgante/3rdSemesterProject) Group work.
+- [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3) 
+- [Semester 3 Project: CenterSprog Language School](https://youtu.be/oUpRkwiyLQY) Demo
+- [Semester 3 Project. Distributed Systems. ](https://github.com/elgante/3rdSemesterProject) 3 Tier: CenterSprog Language School. .NET, Java Sring Boot, Blazor, gRPC, Rest API, SQL - Group work - Code
 
 
 ## Java
-- [Semester2 Project. Client-Server: Vynil Swap. JavaFx+RMI](https://github.com/elgante/SEP2_group_work) Group work
-- [Java exercises and Semester1 Project: Overlook Hotel. JavaFx.](https://github.com/elgante/java) Group work
+- [Semester2 Project. Client-Server: Vynil Swap.](https://github.com/elgante/SEP2_group_work) JavaFx+RMI - Group work - Code
+- [Java exercises and Semester1 Project: Overlook Hotel.](https://github.com/elgante/java) JavaFx - Group work - Code
 - [WEB1 Assignment: Overlook Hotel Website.](https://overlookhotel.vercel.app/)  HTML, CSS, Bootstrap - Group work - Demo
 
