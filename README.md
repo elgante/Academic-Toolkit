@@ -28,15 +28,15 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 - [A Surreal Journey. Multimedia Project. Video](https://youtu.be/_jBNDwUpEh8)
 
 ## JS, React
-- [ELGANTE Personal Site Demo](https://elgante-personal-site-v1.vercel.app)
+- [ELGANTE Personal Site](https://elgante-personal-site-v1.vercel.app) -  Demo
 - [ELGANTE Personal Site](https://github.com/elgante/elgante_personal_site_v1_code.git) Built independently to explore JavaScript and React features.
-- [WEB2 assignment Pokedex Demo](https://pokedex-nine-gamma-91.vercel.app)
-- [WEB2 assignment Pokedex](https://github.com/elgante/pokedex_code)
-- [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) Group work
-- [Semester 4 Project: Green House. Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CD Demo](https://plan-ty.github.io/plan-ty/) Group work
+- [WEB2 assignment Pokedex](https://pokedex-nine-gamma-91.vercel.app) - Demo
+- [WEB2 assignment Pokedex](https://github.com/elgante/pokedex_code) - Code
+- [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) Group work - Code
+- [Semester 4 Project: Green House. ](https://plan-ty.github.io/plan-ty/) Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CD - Group work - Demo
 
 ## C#
-- [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3) 
+- [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3) Code 
 - [Semester 3 Project: CenterSprog Language School](https://youtu.be/oUpRkwiyLQY) Demo
 - [Semester 3 Project. Distributed Systems. ](https://github.com/elgante/3rdSemesterProject) 3 Tier: CenterSprog Language School. .NET, Java Sring Boot, Blazor, gRPC, Rest API, SQL - Group work - Code
 
