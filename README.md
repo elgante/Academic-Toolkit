@@ -25,24 +25,24 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 
 
 ## Multimedia
-- [A Surreal Journey. Multimedia Project. Video](https://youtu.be/_jBNDwUpEh8)
+- [A Surreal Journey. Multimedia Project.](https://youtu.be/_jBNDwUpEh8) - Video
 
 ## JS, React
 - [ELGANTE Personal Site](https://elgante-personal-site-v1.vercel.app) -  Demo
 - [ELGANTE Personal Site](https://github.com/elgante/elgante_personal_site_v1_code.git) Built independently to explore JavaScript and React features.
 - [WEB2 assignment Pokedex](https://pokedex-nine-gamma-91.vercel.app) - Demo
 - [WEB2 assignment Pokedex](https://github.com/elgante/pokedex_code) - Code
-- [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) Group work - Code
-- [Semester 4 Project: Green House. ](https://plan-ty.github.io/plan-ty/) Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CD - Group work - Demo
+- [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) - Group work - Code
+- [Semester 4 Project: Green House. ](https://plan-ty.github.io/plan-ty/) - Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CD - Group work - Demo
 
 ## C#
-- [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3) Code 
-- [Semester 3 Project: CenterSprog Language School](https://youtu.be/oUpRkwiyLQY) Demo
-- [Semester 3 Project. Distributed Systems. ](https://github.com/elgante/3rdSemesterProject) 3 Tier: CenterSprog Language School. .NET, Java Sring Boot, Blazor, gRPC, Rest API, SQL - Group work - Code
+- [.NET Assignments 1-3](https://github.com/elgante/.NETassignment1-3) - Code 
+- [Semester 3 Project: CenterSprog Language School](https://youtu.be/oUpRkwiyLQY) - Demo
+- [Semester 3 Project. Distributed Systems. ](https://github.com/elgante/3rdSemesterProject) - 3 Tier: CenterSprog Language School. .NET, Java Sring Boot, Blazor, gRPC, Rest API, SQL - Group work - Code
 
 
 ## Java
-- [Semester2 Project. Client-Server: Vynil Swap.](https://github.com/elgante/SEP2_group_work) JavaFx+RMI - Group work - Code
-- [Java exercises and Semester1 Project: Overlook Hotel.](https://github.com/elgante/java) JavaFx - Group work - Code
-- [WEB1 Assignment: Overlook Hotel Website.](https://overlookhotel.vercel.app/)  HTML, CSS, Bootstrap - Group work - Demo
+- [Semester2 Project. Client-Server: Vynil Swap.](https://github.com/elgante/SEP2_group_work) - JavaFx+RMI - Group work - Code
+- [Java exercises and Semester1 Project: Overlook Hotel.](https://github.com/elgante/java) - JavaFx - Group work - Code
+- [WEB1 Assignment: Overlook Hotel Website.](https://overlookhotel.vercel.app/) - HTML, CSS, Bootstrap - Group work - Demo
 
