@@ -29,7 +29,7 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 
 ## JS, React
 - [ELGANTE Personal Site](https://elgante-personal-site-v1.vercel.app) -  Demo
-- [ELGANTE Personal Site](https://github.com/elgante/elgante_personal_site_v1_code.git) Built independently to explore JavaScript and React features.
+- [ELGANTE Personal Site](https://github.com/elgante/elgante_personal_site_v1_code.git) - Built independently to explore JavaScript and React features.
 - [WEB2 assignment Pokedex](https://pokedex-nine-gamma-91.vercel.app) - Demo
 - [WEB2 assignment Pokedex](https://github.com/elgante/pokedex_code) - Code
 - [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) - Group work - Code
