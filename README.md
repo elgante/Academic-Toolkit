@@ -44,5 +44,5 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 ## Java
 - [Semester2 Project. Client-Server: Vynil Swap. JavaFx+RMI](https://github.com/elgante/SEP2_group_work) Group work
 - [Java exercises and Semester1 Project: Overlook Hotel. JavaFx.](https://github.com/elgante/java) Group work
-- [WEB1 Assignment: Overlook Hotel Website. HTML, CSS, Bootstrap.](https://overlookhotel.vercel.app/) Demo. Group work
+- [WEB1 Assignment: Overlook Hotel Website.](https://overlookhotel.vercel.app/)  HTML, CSS, Bootstrap - Group work - Demo
 
