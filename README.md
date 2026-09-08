@@ -33,6 +33,7 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 - [WEB2 assignment Pokedex](https://pokedex-nine-gamma-91.vercel.app) - Demo
 - [WEB2 assignment Pokedex](https://github.com/elgante/pokedex_code) - Code
 - [WEB2 assignment Tic-Tac-Toe](https://github.com/elgante/tic_tac_toe) - Group work - Code
+- [WEB1 Assignment: Overlook Hotel Website.](https://overlookhotel.vercel.app/) - HTML, CSS, Bootstrap - Group work - Demo
 - [Semester 4 Project: Green House. ](https://plan-ty.github.io/plan-ty/) - Responsive Web Solution, React, JS,  Chart.js, Axios,  Testing(Jest, Cypress), CI/CD - Group work - Demo
 
 ## C#
@@ -44,5 +45,5 @@ I’m also still being polished 🤩, so stay tuned for more updates soon.
 ## Java
 - [Semester2 Project. Client-Server: Vynil Swap.](https://github.com/elgante/SEP2_group_work) - JavaFx+RMI - Group work - Code
 - [Java exercises and Semester1 Project: Overlook Hotel.](https://github.com/elgante/java) - JavaFx - Group work - Code
-- [WEB1 Assignment: Overlook Hotel Website.](https://overlookhotel.vercel.app/) - HTML, CSS, Bootstrap - Group work - Demo
+
 
